@@ -35,7 +35,7 @@ all feedback fixes screen until posture gets to normal
 
 hide screen when no face detected
 
-<img src="README_IMAGES/screen0.png" width="100%"/>
+<img src="README_IMAGES/noface.png" width="100%"/>
 
 ### too close
 screen zooms to center
