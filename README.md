@@ -10,9 +10,9 @@ turn ON/OFF the cat image
 
 control opacity to see current posture
 
-### Tab2 : Feedbacks
-
 <img src="README_IMAGES/screen1.png" width="75%"/>
+
+### Tab2 : Feedbacks
 
 turn ON/OFF each feedbacks
 
