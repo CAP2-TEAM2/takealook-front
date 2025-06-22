@@ -2,4 +2,4 @@
 
 take a look front repository
 
-![close](README_IMAGES/close.gif|400)
+<img src="assets/close.gif" width="50%"/>
