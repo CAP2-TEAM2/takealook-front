@@ -4,9 +4,13 @@ takealook의 프론트엔드 실행 환경 및 정보 제공
 
 ## On Running
 
+### Tab1 : General
+
 turn ON/OFF the cat image
 
 control opacity to see current posture
+
+### Tab2 : Feedbacks
 
 <img src="README_IMAGES/screen1.png" width="75%"/>
 
@@ -14,9 +18,15 @@ turn ON/OFF each feedbacks
 
 <img src="README_IMAGES/screen2.png" width="75%"/>
 
+### Tab3 : Gestures
+
 manage gesture commands
 
 <img src="README_IMAGES/screen3.png" width="75%"/>
+
+#### Tab4 : Others
+
+visible socket-communication value
 
 ## Feedbacks
 all feedback fixes screen until posture gets to normal
