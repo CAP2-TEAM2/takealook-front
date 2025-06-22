@@ -2,4 +2,4 @@
 
 take a look front repository
 
-<img src="assets/close.gif" width="300"/>
+<img src="README_IMAGES/close.gif" width="300"/>
