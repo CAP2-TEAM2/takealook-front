@@ -31,6 +31,12 @@ visible socket-communication value
 ## Feedbacks
 all feedback fixes screen until posture gets to normal
 
+### no face
+
+hide screen when no face detected
+
+<img src="README_IMAGES/noface.png" width="100%"/>
+
 ### too close
 screen zooms to center
 
